@@ -29,7 +29,7 @@ Apart from coding i do technical writing on topics based on software development
 
 [![Joshua Ndeleva github stats ](https://github-readme-stats.vercel.app/api?username=joshuandeleva&theme=dark&show_icons=true)](https://github.com/joshuandeleva/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuandeleva&theme=dark&show_icons=true)](https://github.com/joshuandeleva/github-readme-stats)
-[![Joshua ndeleva wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamndeleva&theme=dark&show_icons=true)](https://github.com/joshuandeleva/github-readme-stats)
+[![Joshua ndeleva wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamndeleva&theme=dark&show_icons=true)](https://github.com/joshuandeleva/github-readme-stats&v=2)
 <!--
 **joshuandeleva/joshuandeleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
