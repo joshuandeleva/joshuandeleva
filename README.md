@@ -1,4 +1,4 @@
-### I'm Joshua Ndeleva :rocket::computer:
+### I'm Software Engineer :rocket::computer:
 ![](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 
